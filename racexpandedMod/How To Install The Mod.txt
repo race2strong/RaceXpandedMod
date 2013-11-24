@@ -1,0 +1,14 @@
+How to install and enjoy the mod:
+
+1. You need to make sure you have the beta version of Game Dev Tycoon on Steam. 
+2. Go to your Steam library
+3. Right-click on Game Dev Tycoon
+4. Select Properties
+5. Go to the 'BETAS' tab
+6. Select 'Beta - Beta' from the Dropdown List
+7. Now you have the beta version of Game Dev Tycoon, Go to your Steam folder
+8. Go into /steamapps/common/Game Dev Tycoon/mods
+9. Paste the mod files into the mods folder
+10.Open modConfig.js
+11. Add '{ script: "raceExpandedMod/source.js" } (make sure the line above ends with a comma
+12. Save the file and enjoy the mod!
